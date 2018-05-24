@@ -20,7 +20,7 @@ public class SpawnObjectTimer : MonoBehaviour {
         }
         else
         {
-            spawnTime -= 0.01f;
+            spawnTime -= 0.05f;
         }
     }
 }
